@@ -1,0 +1,5 @@
+azure-data-tables==12.7.0
+azure-storage-blob==12.27.1
+pandas==2.3.0
+streamlit==1.51.0
+streamlit-autorefresh==1.0.1
